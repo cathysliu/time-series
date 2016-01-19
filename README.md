@@ -1,2 +1,7 @@
-# time-series
-Time Series Project: Looking at Google Ngram Data of Gender-Specific Pronouns in English Language Books
+# The Use of Gender-Specific Pronouns in English-Language Books
+
+## 1 Introduction
+In this project, the question we are studying is: Have the rise and growth of feminism and the progress towards gender equality have affected the use of gender-specific pronouns in English literature? We will examine the usage of the gender-specific pronouns ‘he’ and ‘she’ in English-language books over time, and determine whether there are any declines in the use of ‘he’ or increases in the use of ‘she’ that correspond to the first-wave (1848-1920), second-wave (1963-1982), and third-wave (1990-2008) feminist movements.
+
+## 2 Data
+The data to conduct this project was retrieved from Google Books’ Ngram data. The data includes the number of occurrences of specific words or phrases in English language books throughout each year. I extracted this data for ‘he’, ‘she’, and all pronouns from the year 1750 throughout the year 2008, the most recent year in which Google Books had data. There is data available as early as in the 1500s, but in the earlier years, there is not data available every year and the data is not very consistent, so I will be looking at the data starting from the year 1801 until the year 2008. Because I would have to work with extremely large numbers if I were to use the data as it was, I decided to use ratios for the project so the data would be easier to manage. I then proceeded to calculate ratios: the number of occurrences of ‘he’ to the number of occurrences of all pronouns, and the number of occurrences of ‘she’ to the number of occurrences of all pronouns.
